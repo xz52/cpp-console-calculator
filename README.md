@@ -32,15 +32,15 @@ Follow these steps to get the calculator running on your local machine:
 2.  Navigate to the directory where you saved `Robust_command-line_calculator.cpp`.
 3.  Compile the source code using a command like:
 
-    g++ Robust_command-line_calculator.cpp -o calculator
+    `g++ Robust_command-line_calculator.cpp -o calculator`
 
     (This command creates an executable file named `calculator`).
-    Note: If you're a windows user then you have to add the extension '.exe' for your excutable file.
+    Note: If you're a windows user then you have to add the extension `.exe` for your excutable file.
 
 ### Execution
 1.  Run the compiled executable from your terminal:
 
-    ./calculator
+    `./calculator`
 
     (On Windows, you might simply type `calculator.exe` or `calculator` and press Enter).
 
@@ -67,7 +67,7 @@ Once the program starts, you'll be guided by prompts:
 
 ---
 
-## Key Learnings & Problem-Solving Insights (Crucial for Your Portfolio!)
+## Key Learnings & Problem-Solving Insights:
 This project served as an invaluable opportunity to deepen my understanding of C++ fundamentals and practical software development challenges. I gained significant experience in:
 
 * **Mastering Input Streams:** Navigating the complexities of `std::cin`, including implementing robust error handling with `std::cin.fail()`, clearing error states with `std::cin.clear()`, and efficiently managing the input buffer using `std::cin.ignore()` to prevent unexpected program behavior.
@@ -80,5 +80,5 @@ This project served as an invaluable opportunity to deepen my understanding of C
 ---
 
 ## Author
-[Yusif Hamdy]
-[github.com/xz52]
+Yusif Hamdy
+github.com/xz52
