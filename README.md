@@ -80,5 +80,5 @@ This project served as an invaluable opportunity to deepen my understanding of C
 ---
 
 ## Author
-Yusif Hamdy
-github.com/xz52
+[Yusif Hamdy]
+[github.com/xz52]
